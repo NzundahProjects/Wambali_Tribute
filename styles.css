@@ -1,0 +1,41 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(230, 230, 218);
+}
+.forTop{
+    text-align: center;
+
+}
+
+img{
+    width:650px;
+    height:632px;
+    border-radius: 0.9%;
+}
+img:hover{
+border-radius: 8%;
+
+}
+.container {
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+  }
+  #dom{
+      color:darkblue;
+      font-size: 10px;
+      font-weight: weight;
+      font-style:normal;
+      text-align: center;
+   }
+   audio{
+       object-position: center;
+   }
+   #song{
+       border-radius: 1.5%;
+       width:650px;
+       height:60px;
+   }
+   span{
+       font-weight: bold ;
+      }
